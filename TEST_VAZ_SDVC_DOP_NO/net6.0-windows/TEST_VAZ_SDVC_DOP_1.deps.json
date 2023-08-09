@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TEST_VAZ_SDVC_DOP_1/1.0.0": {
+        "runtime": {
+          "TEST_VAZ_SDVC_DOP_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TEST_VAZ_SDVC_DOP_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
